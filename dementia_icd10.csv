@@ -1,0 +1,32 @@
+﻿icd10,description
+A81,Atypical virus infections of central nervous system
+A810,Creutzfeldt-Jakob disease
+A811,Subacute sclerosing panencephalitis
+A812,Progressive multifocal leukoencephalopathy
+A818,Other atypical virus infections of central nervous system
+A819,"Atypical virus infection of central nervous system, unspecified"
+F01,Vascular dementia
+F010,Vascular dementia of acute onset
+F011,Multi-infarct dementia
+F012,Subcortical vascular dementia
+F013,Mixed cortical and subcortical vascular dementia
+F018,Other vascular dementia
+F019,"Vascular dementia, unspecified"
+F02,Dementia in other diseases classified elsewhere
+F020,Dementia in Pick disease
+F021,Dementia in Creutzfeldt-Jakob disease
+F022,Dementia in Huntington disease
+F023,Dementia in Parkinson disease
+F028,Dementia in other specified diseases classified elsewhere
+F03X,Unspecified dementia
+G30,Alzheimer disease
+G300,Alzheimer disease with early onset
+G301,Alzheimer disease with late onset
+G308,Other Alzheimer disease
+G309,"Alzheimer disease, unspecified"
+G31,"Other degenerative diseases of nervous system, not elsewhere classified"
+G310,Circumscribed brain atrophy
+G311,"Senile degeneration of brain, not elsewhere classified"
+G312,Degeneration of nervous system due to alcohol
+G318,Other specified degenerative diseases of nervous system
+G319,"Degenerative disease of nervous system, unspecified"

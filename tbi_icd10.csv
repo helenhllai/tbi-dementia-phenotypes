@@ -1,0 +1,12 @@
+﻿icd10,description
+S06,Intracranial injury
+S06.0,Concussion
+S06.1,Traumatic cerebral oedema
+S06.2,Diffuse brain injury
+S06.3,Focal brain injury
+S06.4,Epidural haemorrhage
+S06.5,Traumatic subdural haemorrhage
+S06.6,Traumatic subarachnoid haemorrhage
+S06.7,Intracranial injury with prolonged coma
+S06.8,Other intracranial injuries
+S06.9,"Intracranial injury, unspecified"

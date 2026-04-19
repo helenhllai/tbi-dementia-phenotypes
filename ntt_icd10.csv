@@ -1,0 +1,92 @@
+icd10,description
+S01,Open wound of head
+S02,Fracture of skull and facial bones
+S03,"Dislocation, sprain and strain of joints and ligaments of head"
+S04,Injury of cranial nerves
+S05,Injury of eye and orbit
+S07,Crushing injury of head
+S08,Traumatic amputation of part of head
+S09,Other and unspecified injuries of head
+S11,Open wound of neck
+S12,Fracture of neck
+S13,"Dislocation, sprain and strain of joints and ligaments at neck level"
+S14,Injury of nerves and spinal cord at neck level
+S15,Injury of blood vessels at neck level
+S16,Injury of muscle and tendon at neck level
+S17,Crushing injury of neck
+S18,Traumatic amputation at neck level
+S19,Other and unspecified injuries of neck
+S21,Open wound of thorax
+S22,"Fracture of rib(s), sternum and thoracic spine"
+S23,"Dislocation, sprain and strain of joints and ligaments of thorax"
+S24,Injury of nerves and spinal cord at thorax level
+S25,Injury of blood vessels of thorax
+S26,Injury of heart
+S27,Injury of other and unspecified intrathoracic organs
+S28,Crushing injury of thorax and traumatic amputation of part of thorax
+S29,Other and unspecified injuries of thorax
+S31,"Open wound of abdomen, lower back and pelvis"
+S32,Fracture of lumbar spine and pelvis
+S33,"Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis"
+S34,"Injury of nerves and lumbar spinal cord at abdomen, lower back and pelvis level"
+S35,"Injury of blood vessels at abdomen, lower back and pelvis level"
+S36,Injury of intra-abdominal organs
+S37,Injury of urinary and pelvic organs
+S38,"Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis"
+S39,"Other and unspecified injuries of abdomen, lower back and pelvis"
+S41,Open wound of shoulder and upper arm
+S42,Fracture of shoulder and upper arm
+S43,"Dislocation, sprain and strain of joints and ligaments of shoulder girdle"
+S44,Injury of nerves at shoulder and upper arm level
+S45,Injury of blood vessels at shoulder and upper arm level
+S46,Injury of muscle and tendon at shoulder and upper arm level
+S47,Crushing injury of shoulder and upper arm
+S48,Traumatic amputation of shoulder and upper arm
+S49,Other and unspecified injuries of shoulder and upper arm
+S51,Open wound of forearm
+S52,Fracture of forearm
+S53,"Dislocation, sprain and strain of joints and ligaments of elbow"
+S54,Injury of nerves at forearm level
+S55,Injury of blood vessels at forearm level
+S56,Injury of muscle and tendon at forearm level
+S57,Crushing injury of forearm
+S58,Traumatic amputation of forearm
+S59,Other and unspecified injuries of forearm
+S61,Open wound of wrist and hand
+S62,Fracture at wrist and hand level
+S63,"Dislocation, sprain and strain of joints and ligaments at wrist and hand level"
+S64,Injury of nerves at wrist and hand level
+S65,Injury of blood vessels at wrist and hand level
+S66,Injury of muscle and tendon at wrist and hand level
+S67,Crushing injury of wrist and hand
+S68,Traumatic amputation of wrist and hand
+S69,Other and unspecified injuries of wrist and hand
+S71,Open wound of hip and thigh
+S72,Fracture of femur
+S73,"Dislocation, sprain and strain of joint and ligaments of hip"
+S74,Injury of nerves at hip and thigh level
+S75,Injury of blood vessels at hip and thigh level
+S76,Injury of muscle and tendon at hip and thigh level
+S77,Crushing injury of hip and thigh
+S78,Traumatic amputation of hip and thigh
+S79,Other and unspecified injuries of hip and thigh
+S81,Open wound of lower leg
+S82,"Fracture of lower leg, including ankle"
+S83,"Dislocation, sprain and strain of joints and ligaments of knee"
+S84,Injury of nerves at lower leg level
+S85,Injury of blood vessels at lower leg level
+S86,Injury of muscle and tendon at lower leg level
+S87,Crushing injury of lower leg
+S88,Traumatic amputation of lower leg
+S89,Other and unspecified injuries of lower leg
+S91,Open wound of ankle and foot
+S92,"Fracture of foot, except ankle"
+S93,"Dislocation, sprain and strain of joints and ligaments at ankle and foot level"
+S94,Injury of nerves at ankle and foot level
+S95,Injury of blood vessels at ankle and foot level
+S96,Injury of muscle and tendon at ankle and foot level
+S97,Crushing injury of ankle and foot
+S98,Traumatic amputation of ankle and foot
+S99,Other and unspecified injuries of ankle and foot
+T07,Unspecified multiple injuries
+T14,Injury of unspecified body region

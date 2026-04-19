@@ -1,0 +1,66 @@
+﻿readv2,description
+A41..,Slow viral central nervous system infection
+A410.,Kuru
+A411.,Creutzfeldt-Jakob disease
+A413.,Progressive multifocal leucoencephalopathy
+A41y.,Other slow virus central nervous system infections
+A41z.,Slow virus central nervous system infection NOS
+Ayu82,[X]Other slow virus infections of central nervous system
+Ayu83,"[X]Slow virus infection/central nervous system, unspecified"
+E000.,Uncomplicated senile dementia
+E001.,Presenile dementia
+E0010,Uncomplicated presenile dementia
+E0012,Presenile dementia with paranoia
+E0013,Presenile dementia with depression
+E002.,Senile dementia with depressive or paranoid features
+E0020,Senile dementia with paranoia
+E0021,Senile dementia with depression
+E0040,Uncomplicated arteriosclerotic dementia
+E0041,Arteriosclerotic dementia with delirium
+E0042,Arteriosclerotic dementia with paranoia
+E0043,Arteriosclerotic dementia with depression
+Eu00.,[X]Dementia in Alzheimer's disease
+Eu002,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+Eu00z,"[X]Dementia in Alzheimer's disease, unspecified"
+Eu01y,[X]Other vascular dementia
+Eu01z,"[X]Vascular dementia, unspecified"
+Eu02.,[X]Dementia in other diseases classified elsewhere
+Eu020,[X]Dementia in Pick's disease
+Eu021,[X]Dementia in Creutzfeldt-Jakob disease
+Eu022,[X]Dementia in Huntington's disease
+Eu023,[X]Dementia in Parkinson's disease
+Eu02y,[X]Dementia in other specified diseases classif elsewhere
+F0301,Subacute sclerosing panencephalitis
+F1…,Hereditary and degenerative diseases of the CNS
+F10y0,Progressive neuronal degeneration with liver cirrhosis
+F11..,Other cerebral degenerations
+F110.,Alzheimer's disease
+F111.,Pick's disease
+F112.,Senile degeneration of brain
+F11x0,Alcoholic encephalopathy
+F11x7,Cerebral degeneration due to Creutzfeldt-Jakob disease
+F11x8,Cerebral degeneration due to multifocal leucoencephalopathy
+F11xz,Cerebral degeneration other disease NOS
+F11yz,Other cerebral degeneration NOS
+F1440,Alcoholic cerebellar degeneration
+Fyu30,[X]Other Alzheimer's disease
+Fyu31,[X]Other specified degenerative diseases/the nervous system
+X002w,Dementia
+X002x,Dementia in Alzheimer's disease with early onset
+X002y,Familial Alzheimer's disease of early onset
+X002z,Non-familial Alzheimer's disease of early onset
+X0030,Dementia in Alzheimer's disease with late onset
+X0031,Familial Alzheimer's disease of late onset
+X0032,Non-familial Alzheimer's disease of late onset
+X0033,Focal Alzheimer's disease
+X003R,Vascular dementia of acute onset
+X003T,Subcortical vascular dementia
+X003V,Mixed cortical and subcortical vascular dementia
+X00R2,Senile dementia
+Xa01H,Multi-infarct dementia
+Xa0sE,Dementia of frontal lobe type
+XaIKB,Alzheimer's disease with early onset
+XaIKC,Alzheimer's disease with late onset
+XaIRJ,Cereb autosom dominant arteriop subcort infarcts leukoenceph
+XE1Xs,Vascular dementia
+XE1Z6,[X]Unspecified dementia
